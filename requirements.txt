@@ -1,0 +1,11 @@
+tensorboard
+easydict
+matplotlib
+pandas
+scikit-image
+scikit-learn
+menpo
+prettytable
+mxnet
+torchsummary
+opencv-python
